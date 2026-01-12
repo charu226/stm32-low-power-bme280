@@ -1,0 +1,4 @@
+BOOT OK
+Sensor ready
+[RTC] T=24.47 C  P=101890 Pa  H=52 %
+[RTC] T=24.46 C  P=101886 Pa  H=52 %
